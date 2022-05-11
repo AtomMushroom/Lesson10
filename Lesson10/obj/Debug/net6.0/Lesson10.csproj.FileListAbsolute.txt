@@ -1,0 +1,15 @@
+C:\Users\vasil\Desktop\Lesson10\bin\Debug\net6.0\Lesson10.exe
+C:\Users\vasil\Desktop\Lesson10\bin\Debug\net6.0\Lesson10.deps.json
+C:\Users\vasil\Desktop\Lesson10\bin\Debug\net6.0\Lesson10.runtimeconfig.json
+C:\Users\vasil\Desktop\Lesson10\bin\Debug\net6.0\Lesson10.dll
+C:\Users\vasil\Desktop\Lesson10\bin\Debug\net6.0\ref\Lesson10.dll
+C:\Users\vasil\Desktop\Lesson10\bin\Debug\net6.0\Lesson10.pdb
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.AssemblyInfo.cs
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.dll
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\ref\Lesson10.dll
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.pdb
+C:\Users\vasil\Desktop\Lesson10\obj\Debug\net6.0\Lesson10.genruntimeconfig.cache
